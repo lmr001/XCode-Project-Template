@@ -20,7 +20,7 @@
 	<key>Description</key>
 	<string>This template provides a starting point for an application that uses a single view. It provides a view controller to manage the view, and a storyboard or nib file that contains the view. It creates the default project structure.</string>
 	<key>Identifier</key>
-	<string>com.mit.singleViewApplication</string>
+	<string>com.custom.singleViewApplication</string>
 	<key>Kind</key>
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Nodes</key>
